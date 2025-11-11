@@ -1,0 +1,112 @@
+在目录中找到 18 张图片。
+========================================
+正在处理图片: 13.jpg
+图片文件: 13.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.86%
+---
+正在处理图片: 10.jpg
+图片文件: 10.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.81%
+---
+正在处理图片: 9.jpg
+图片文件: 9.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.90%
+---
+正在处理图片: 4.jpg
+图片文件: 4.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.70%
+---
+正在处理图片: 8.jpg
+图片文件: 8.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.79%
+---
+正在处理图片: 23.png
+图片文件: 23.png
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a dog'
+匹配概率: 99.70%
+---
+正在处理图片: 7.jpg
+图片文件: 7.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.75%
+---
+正在处理图片: 11.jpg
+图片文件: 11.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.78%
+---
+正在处理图片: 21.jpg
+图片文件: 21.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a dog'
+匹配概率: 99.51%
+---
+正在处理图片: 14.jpg
+图片文件: 14.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.82%
+---
+正在处理图片: 12.jpg
+图片文件: 12.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.87%
+---
+正在处理图片: 3.jpg
+图片文件: 3.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.64%
+---
+正在处理图片: 6.jpg
+图片文件: 6.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.73%
+---
+正在处理图片: 24.jpg
+图片文件: 24.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a dog'
+匹配概率: 97.43%
+---
+正在处理图片: 22.jpg
+图片文件: 22.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a dog'
+匹配概率: 98.92%
+---
+正在处理图片: 1.jpg
+图片文件: 1.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.87%
+---
+正在处理图片: 5.jpg
+图片文件: 5.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.79%
+---
+正在处理图片: 2.jpg
+图片文件: 2.jpg
+分析的标签: ['a photo of a cat', 'a photo of a dog']
+结果: 这张图片最匹配的标签是 -> 'a photo of a cat'
+匹配概率: 99.77%
+---
+========================================
+---所有图片处理完成。---
